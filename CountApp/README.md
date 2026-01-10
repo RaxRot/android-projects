@@ -1,3 +1,3 @@
 # Counter App
 
-A simple counter application currently under development.
+MVVM counter app using Jetpack Compose.
